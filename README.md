@@ -1,5 +1,8 @@
 # Photodiode Transimpedance Amplifier — Design & Noise Analysis
 
+[![Latest release](https://img.shields.io/github/v/release/NobuhiroMoteki/Photodiode-TIA?display_name=tag&sort=semver&label=latest%20release)](https://github.com/NobuhiroMoteki/Photodiode-TIA/releases/latest)
+[![Latest tag](https://img.shields.io/github/v/tag/NobuhiroMoteki/Photodiode-TIA?sort=semver&label=latest%20tag)](https://github.com/NobuhiroMoteki/Photodiode-TIA/tags)
+
 Design tool for Butterworth-optimized photodiode transimpedance amplifiers (TIAs), with focus on balanced (differential) detection applications.
 
 ## Application
